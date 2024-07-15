@@ -28,7 +28,7 @@ class FAISSCRUD:
     def update(self, idx, new_embedding):
         if idx in self.id_to_embedding:
             self.index.remove_ids(np.array([idx]))
-            self.index.add_with_ids(np.array([new_embedding], dtype=np.float32), np.array([idx]))
+            #self.index.add_with_ids(np.array([new_embedding], dtype=np.float32), np.array([idx]))
             self.id_to_embedding[idx] = new_embedding
             self.save_index()
             return True
