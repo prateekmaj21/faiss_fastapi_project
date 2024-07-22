@@ -23,3 +23,6 @@ python -m uvicorn main:app --reload
 
 Postman is a software application that allows developers to test, document, and share APIs (Application Programming Interfaces).
 
+#### Transformer Used: 
+https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
+
