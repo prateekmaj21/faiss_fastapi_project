@@ -2,7 +2,8 @@
 
 FAISS (Facebook AI Similarity Search) is a library that allows developers to quickly search for embeddings of multimedia documents that are similar to each other.
 
-Video Implementation:  [Youtube]([https://pages.github.com/](https://www.youtube.com/watch?v=4iSwOqPG-vs))
+Video Implementation: [Youtube](https://www.youtube.com/watch?v=4iSwOqPG-vs)
+
 
 Check Project_Details document for more information.
 
